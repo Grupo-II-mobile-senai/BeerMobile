@@ -1,5 +1,5 @@
 # Orderm Abrir repositorio
-    - Git pull origin (branch)
+    - git pull origin (branch)
     - faz alterações
     - git add --all 
     - git commit -m "o que foi alterado aqui dentro"
