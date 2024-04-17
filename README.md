@@ -1,2 +1,0 @@
-# BeerMobile
-Projeto Sa senai
