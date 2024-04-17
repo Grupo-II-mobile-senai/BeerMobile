@@ -1,3 +1,12 @@
+# Orderm Abrir repositorio
+    - Git pull origin (branch)
+    - faz alterações
+    - git add --all 
+    - git commit -m "o que foi alterado aqui dentro"
+    - git push origin
+
+
+
 - Header
     - logo
     - botao menu
